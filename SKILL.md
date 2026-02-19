@@ -3,8 +3,9 @@ name: dichotomy-of-control
 description: Separate any situation into what is within your control versus what is outside it, to focus energy and reduce anxiety.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3825
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - dichotomy-of-control-analysis
 - writing
